@@ -1,0 +1,41 @@
+ul {
+    background-color: rgb(37, 177, 111);
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+ul {
+    list-style: outside;
+}
+
+.instruct {
+    list-style: lower-roman;
+    display: block;
+}
+
+.img2 {
+    float: left;
+}
+
+footer{
+    color: chartreuse;
+    clear: both;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+em {
+    font-size: 50px;
+}
+span  {
+    font-size: 2em;
+}
+
+
+
+
+
+
+
